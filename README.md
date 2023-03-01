@@ -2,9 +2,9 @@
 
 Dynamic movie list developed with React. ⚛️
 
-# Getting Started with Create React App
+You can see the live project working on <a href="https://movie-list-blond-phi.vercel.app/" target="_blank">this page</a>. 💻
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run the application on your local server, you need to download this repositary files and follow this instructions:
 
 ## Available Scripts
 
