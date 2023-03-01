@@ -1,0 +1,24 @@
+.text-field {
+    margin: 24px 0;
+}
+
+.text-field label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.text-field input {
+    background: #FFF;
+    width: 100%;
+    border: 2px solid #F0F0F0;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 10px;
+}
+
+.text-field input:focus {
+    outline: 0;
+    border: 2px solid #0F4C75;
+}
